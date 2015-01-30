@@ -1,0 +1,17 @@
+{
+    "contents" : "#add.R\n\n#' Add together two numbers.\n#' \n#' @param x A number.\n#' @param y A number.\n#' @return The sum of \\code{x} and \\code{y}.\n#' @examples\n#' add(1, 1)\n#' add(10, 1)\nadd <- function(x, y) {\n  x + y\n}",
+    "created" : 1422643920616.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "167709475",
+    "id" : "2C039B3D",
+    "lastKnownWriteTime" : 1422644182,
+    "path" : "~/GitHub/Test2/R/add.R",
+    "project_path" : "R/add.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
