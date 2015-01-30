@@ -1,0 +1,17 @@
+{
+    "contents" : "#' LearnRoxygen: A package for understanding the roxygen2 package.\n#'\n#' The LearnRoxygen package provides many functions!\n#' \n#' @section Data parsing functions:\n#' Functions to parse data ...\n#'\n#' @section Data aggregating functions:\n#' Functions to aggregate data ...\n#'\n#' @docType package\n#' @name LearnRoxygen\nNULL",
+    "created" : 1422653152417.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3522923988",
+    "id" : "6A22B29E",
+    "lastKnownWriteTime" : 1422655297,
+    "path" : "~/GitHub/LearnRoxygen/R/<LearnRoxygen>.R",
+    "project_path" : "R/<LearnRoxygen>.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

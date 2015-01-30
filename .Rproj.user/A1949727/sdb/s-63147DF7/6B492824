@@ -1,0 +1,16 @@
+{
+    "contents" : "\\name{LearnRoxygen-package}\n\\alias{LearnRoxygen-package}\n\\alias{LearnRoxygen}\n\\docType{package}\n\\title{\nWhat the package does (short line)\n~~ package title ~~\n}\n\\description{\nMore about what it does (maybe more than one line)\n~~ A concise (1-5 lines) description of the package ~~\n}\n\\details{\n\\tabular{ll}{\nPackage: \\tab LearnRoxygen\\cr\nType: \\tab Package\\cr\nVersion: \\tab 1.0\\cr\nDate: \\tab 2015-01-30\\cr\nLicense: \\tab What license is it under?\\cr\n}\n~~ An overview of how to use the package, including the most important functions ~~\n}\n\\author{\nWho wrote it\n\nMaintainer: Who to complain to <yourfault@somewhere.net>\n~~ The author and/or maintainer of the package ~~\n}\n\\references{\n~~ Literature or other references for background information ~~\n}\n~~ Optionally other standard keywords, one per line, from file KEYWORDS in the R documentation directory ~~\n\\keyword{ package }\n\\seealso{\n~~ Optional links to other man pages, e.g. ~~\n~~ \\code{\\link[<pkg>:<pkg>-package]{<pkg>}} ~~\n}\n\\examples{\n~~ simple examples of the most important functions ~~\n}\n",
+    "created" : 1422652397255.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1952660071",
+    "id" : "6B492824",
+    "lastKnownWriteTime" : 1422655297,
+    "path" : "~/GitHub/LearnRoxygen/man/LearnRoxygen-package.Rd",
+    "project_path" : "man/LearnRoxygen-package.Rd",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_doc"
+}

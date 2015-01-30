@@ -1,6 +1,6 @@
-\name{Test2-package}
-\alias{Test2-package}
-\alias{Test2}
+\name{LearnRoxygen-package}
+\alias{LearnRoxygen-package}
+\alias{LearnRoxygen}
 \docType{package}
 \title{
 What the package does (short line)
@@ -12,7 +12,7 @@ More about what it does (maybe more than one line)
 }
 \details{
 \tabular{ll}{
-Package: \tab Test2\cr
+Package: \tab LearnRoxygen\cr
 Type: \tab Package\cr
 Version: \tab 1.0\cr
 Date: \tab 2015-01-30\cr
